@@ -1,4 +1,5 @@
 # myGA-1
+
 Log into https://my.generalassemb.ly/
 
 - Within the Algorithms section, do:
