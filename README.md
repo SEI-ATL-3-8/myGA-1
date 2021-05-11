@@ -12,6 +12,7 @@ Log into https://my.generalassemb.ly/
 - Within the Data Structures section, do:
   - Introduction to Hash Tables
   ![intro-algo](slides/intro-data.png)
+  ![intro-algo](slides/intro-hash.png)
   - Hash Tables Deep Dive
   ![intro-algo](slides/hash-tables.png)
 
